@@ -164,7 +164,7 @@ streamlit==1.44.0
 streamlit-authenticator==0.4.2
 sympy==1.13.1
 ta==0.11.0
-TA-Lib @ file:///C:/Users/User/Downloads/TA_Lib-0.4.32-cp311-cp311-win_amd64.whl#sha256=9adbd8b5bf7b6db1893e85075f8923b8ac7196681fd0d1a56f0a425ee37b65e2
+TA-Lib==0.4.24  # إصدار أقدم قد يعمل
 tenacity==9.0.0
 tensorboard==2.19.0
 tensorboard-data-server==0.7.2
