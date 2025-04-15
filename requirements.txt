@@ -9,3 +9,4 @@ requests==2.32.3
 python-dotenv==1.1.0
 ccxt==4.4.70  # الإصدار المحدد في ملفك الأصلي
 ta==0.11.0 
+TA-Lib @ https://files.pythonhosted.org/packages/90/05/d4c6a778d7a7de0be366bc4a850b4ffaeac2abad927f95d8d59822a3e9db/TA_Lib-0.4.28-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
