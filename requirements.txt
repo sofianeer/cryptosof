@@ -164,7 +164,8 @@ streamlit==1.44.0
 streamlit-authenticator==0.4.2
 sympy==1.13.1
 ta==0.11.0
-TA-Lib==0.4.24  # إصدار أقدم قد يعمل
+TA-Lib==0.4.24  # 
+TA-Lib @ https://files.pythonhosted.org/packages/.../TA_Lib-0.4.28.whl  # ربط مباشر
 tenacity==9.0.0
 tensorboard==2.19.0
 tensorboard-data-server==0.7.2
