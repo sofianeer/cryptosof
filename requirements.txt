@@ -5,3 +5,4 @@ ccxt==4.4.70
 ta==0.11.0  # أو
 pandas-ta==0.3.14
 python-dotenv==1.1.0
+TA-Lib @ https://files.pythonhosted.org/packages/.../TA_Lib-0.4.28.whl  # ربط مباشر لملف Wheel
